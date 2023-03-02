@@ -24,3 +24,5 @@ Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link]
 - ELSST
 - UNESCO
 - Economic
+
+## License
