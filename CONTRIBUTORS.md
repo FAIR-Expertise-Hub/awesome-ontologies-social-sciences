@@ -1,0 +1,2 @@
+- Angelica Maineri, ODISSEI FAIR Expertise Hub , ORCID: 0000-0002-6978-5278
+- Emilio Cammarata, ODISSEI FAIR Support team , ORCID: 0000-0001-8831-209X
