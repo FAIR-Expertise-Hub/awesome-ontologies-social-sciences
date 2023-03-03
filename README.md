@@ -15,10 +15,10 @@ Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link]
 
 ## Ontologies look up services
 - [EMBL-EBI Ontology](https://www.ebi.ac.uk/ols/index)
-- https://bartoc.org/vocabularies
-- https://lov.linkeddata.es/dataset/lov/ 
-- https://op.europa.eu/en/web/eu-vocabularies 
-- https://ontobee.org/
+- [BARTOC Vocabularies](https://bartoc.org/vocabularies)
+- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
+- [EU Vocabularies](https://op.europa.eu/en/web/eu-vocabularies)
+- [Ontobee](https://ontobee.org/)
 
 ## CBS taxonomies
 
