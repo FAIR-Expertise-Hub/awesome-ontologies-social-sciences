@@ -11,8 +11,6 @@ Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link]
 
 ## Contents
 
-## General
-
 ## Ontologies look up services
 - [EMBL-EBI Ontology](https://www.ebi.ac.uk/ols/index)
 - [BARTOC Vocabularies](https://bartoc.org/vocabularies)
@@ -20,11 +18,17 @@ Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link]
 - [EU Vocabularies](https://op.europa.eu/en/web/eu-vocabularies)
 - [Ontobee](https://ontobee.org/)
 
-## CBS taxonomies
+## General
+
+## Methods and statistics
 
 ## Concepts
 - ELSST
 - UNESCO
 - Economic
+
+## CBS taxonomies
+
+
 
 ## License
