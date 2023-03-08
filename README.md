@@ -21,6 +21,14 @@ _If you can’t find what you look for in this list, you might want to try a loo
 - [Ontobee](https://ontobee.org/): a linked data server for ontology terms. Ontobee supports ontology visualization, query, and development. 
 
 ## General
+_General-purposes terminologies and lexical databases_
+- [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other.  
+- [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html): ontology of the FAIR Implementation Profile framework.
+- [PROV-O](https://www.w3.org/TR/prov-o/): ontology to describe the provenance of information in Web documents, data, and resources.
+- [Simple Knowledge Organization System  - SKOS](https://www.w3.org/2004/02/skos/): standards to represent semantic artefacts (e.g. thesauri, classification schemes, subject heading systems)
+- [SSHOC Multilingual Data stewardship terminology](https://vocabs.sshopencloud.eu/vocabularies/sshocterm/en/index/A) : Multilingual list of terms related to data stewardship; terms are linked to other terminologies (e.g. Terms4FAIRskills).
+- [Terms4FAIRskills](https://github.com/terms4fairskills/FAIRterminology): Terminology of skills for supporting FAIRification efforts. 
+- [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
 
 ## Methods and statistics
 
