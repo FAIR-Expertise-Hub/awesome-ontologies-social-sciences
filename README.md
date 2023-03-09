@@ -33,12 +33,14 @@ _General-purposes terminologies and lexical databases_
 ## Methods and statistics
 
 ## Concepts
-- ELSST
+- [ELSST](https://elsst.cessda.eu/): a broad-based, multilingual thesaurus for the social sciences.
 - UNESCO
 - Economic
 
 ## CBS taxonomies
-
+- 
 
 
 ## License
+<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
+
