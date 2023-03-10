@@ -25,14 +25,26 @@ _If you can’t find what you look for in this list, you might want to try a loo
 ## General
 _General-purposes terminologies and lexical databases_
 - [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other.  
+- [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
+
+## FAIR data stewardship
+_Terminologies and thesauri linked to FAIR implementation_
 - [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html): ontology of the FAIR Implementation Profile framework.
 - [PROV-O](https://www.w3.org/TR/prov-o/): ontology to describe the provenance of information in Web documents, data, and resources.
 - [Simple Knowledge Organization System  - SKOS](https://www.w3.org/2004/02/skos/): standards to represent semantic artefacts (e.g. thesauri, classification schemes, subject heading systems)
 - [SSHOC Multilingual Data stewardship terminology](https://vocabs.sshopencloud.eu/vocabularies/sshocterm/en/index/A) : Multilingual list of terms related to data stewardship; terms are linked to other terminologies (e.g. Terms4FAIRskills).
 - [Terms4FAIRskills](https://github.com/terms4fairskills/FAIRterminology): Terminology of skills for supporting FAIRification efforts. 
-- [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
 
 ## Methods and statistics
+- [DDI Mode of Collection](https://ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html): Controlled vocabulary maintained by DDI listing modes of data collection.
+
+## Topics and Subjects
+_Controlled lists of subject headers_
+- [ICPSR Thesaurus subjects index](https://www.icpsr.umich.edu/web/ICPSR/thesaurus/index): Controlled vocabulary system maintained by the Inter-university Consortium for Political and Social Research (ICPSR) and including controlled lists of social science subject terms, geographic and geopolitical entities,  organisations, and names.
+- [SDMX Statistical Subject-Matter Domains](https://registry.sdmx.org/ws/public/sdmxapi/rest/categoryscheme/SDMX/STAT_SUBJECT_MATTER/1.0): Controlled list of subjects, used for exchanging (meta)data across statistical offices. The list is aligned to the Classification of International Statistical 
+- [STW Thesaurus for Economics](https://zbw.eu/stw/version/latest/about.en.html): Thesaurus including 6,000 standardized subject headings and about 20,000 additional entry terms to facilitate indexing and searching of economic literature. It is maintained by ZBW - Leibniz Information Centre for EconomicsActivities maintained by the Conference of European Statisticians of the United Nations Economic Commission for Europe, UNECE.
+
+
 
 ## Concepts
 - [ELSST](https://elsst.cessda.eu/): a broad-based, multilingual thesaurus for the social sciences.
