@@ -1,4 +1,4 @@
-# Awesome Ontologies for the Social Sciences
+# Awesome Ontologies for the Social Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *What*: A curated list of ontologies, controlled vocabularies and semantic artifacts for the social sciences
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
@@ -6,8 +6,10 @@
 This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling, publishing and enriching (meta)datasets from the social sciences. If you wish to contribute, send a PR or get in touch with [Angelica Maineri](mailto:angelica@odissei-data.nl). 
 
 If you want to learn more about semantic artefacts (in general and for the social sciences) we recommend the following resources:
-Controlled vocabularies for the social sciences: what they are, and why we need them [link]
-Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link]
+- Controlled vocabularies for the social sciences: what they are, and why we need them [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7157800.svg)](https://doi.org/10.5281/zenodo.7157800)
+- Ontologies vs Taxonomies vs Thesauri , and its place on the Semantic Web [link](https://blog.thedigitalgroup.com/ontologies-vs-taxonomies-vs-thesauri-and-its-place-on-the-semantic-web)
+
+**Acknowledgments** This work is inspired by CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
 
 ## Contents
 
