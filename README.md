@@ -13,6 +13,7 @@ If you want to learn more about semantic artefacts (in general and for the socia
 
 ## Contents
 - [General](#general)
+- [FAIR data stewardship](#FAIR-data-stewardship)
 
 ## Ontologies look up services
 _If you can’t find what you look for in this list, you might want to try a look up service or database_
