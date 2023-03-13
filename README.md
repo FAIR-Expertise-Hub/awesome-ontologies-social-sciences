@@ -12,6 +12,7 @@ If you want to learn more about semantic artefacts (in general and for the socia
 **Acknowledgments** This work is inspired by CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
 
 ## Contents
+- [General](#general)
 
 ## Ontologies look up services
 _If you can’t find what you look for in this list, you might want to try a look up service or database_
