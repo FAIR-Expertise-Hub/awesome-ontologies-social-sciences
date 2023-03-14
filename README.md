@@ -31,14 +31,15 @@ _If you can’t find what you look for in this list, you might want to try a loo
 
 ## General
 _General-purposes terminologies and lexical databases_
-- [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other.  
+- [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other. 
+- [Theory database](https://theory-database.appspot.com/) - Searchable database of ontologies representing theories of behaviour change (status: prototype). 
 - [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
 
 ## Concepts and Variables
 _Controlled lists of terms, concepts and variables_
-- [ELSST](https://elsst.cessda.eu/): a broad-based, multilingual thesaurus for the social sciences.
-- UNESCO
-- Economic
+- [ELSST](https://thesauri.cessda.eu/elsst-3/en/): Multilingual thesaurus of over 3,000 concepts from various social science disciplines, maintained by CESSDA. 
+- [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
+- [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. 
 
 ## FAIR data stewardship
 _Terminologies and thesauri linked to FAIR implementation_
@@ -54,11 +55,17 @@ _Controlled lists of socio-demographic, socio-economic and geographic indicators
 - [ESCO - skills and competences](https://esco.ec.europa.eu/en/classification/skill_main): Multilingual taxonomy of over 13,500  skills and competences  from the European Skills, Competences, Qualifications and Occupations (ESCO) classification.
 - [ESCO - qualifications](https://esco.ec.europa.eu/en/classification/qualifications) : Multilingual taxonomy of qualifications from the the European Skills, Competences, Qualifications and Occupations (ESCO).
 
-## Methods and statistics
-- [DDI Mode of Collection](https://ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html): Controlled vocabulary maintained by DDI listing modes of data collection.
+## Methods and analyses
+_Controlled lists of data collection and analytical methods_
+- [DDI Analysis Unit](https://vocabularies.cessda.eu/vocabulary/AnalysisUnit): a multilingual controlled vocabulary for analysis unit. It can be used to describe the entity or the unit of observation from which data are gathered. The resource si maintained by DDI and published by CESSDA.
+- [DDI Data Source Type](https://vocabularies.cessda.eu/vocabulary/DataSourceType): a multilingual controlled vocabulary that includes a typology of data sources. The resource si maintained by DDI and published by CESSDA.
+- [DDI Mode of Collection](https://ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html): a multilingual controlled vocabulary listing modes of data collection. The resource si maintained by DDI and published by CESSDA.
+- [DDI Sampling Procedure](https://vocabularies.cessda.eu/vocabulary/SamplingProcedure): a multilingual typology of sampling methods maintained by DDI and published by CESSDA.
+- [DDI Summary Statistics Type](https://vocabularies.cessda.eu/vocabulary/SummaryStatisticType): a multilingual controlled vocabulary for the types of summary statistics. The resource si maintained by DDI and published by CESSDA.
 
 ## Topics and Subjects
-_Controlled lists of subject headers_
+_Controlled lists of topics and subject headers_
+- [CESSDA Topic Classification](https://vocabularies.cessda.eu/vocabulary/TopicClassification?lang=en): multilingual typology of main subjects and themes of data. Maintained by CESSDA.
 - [ICPSR Thesaurus subjects index](https://www.icpsr.umich.edu/web/ICPSR/thesaurus/index): Controlled vocabulary system maintained by the Inter-university Consortium for Political and Social Research (ICPSR) and including controlled lists of social science subject terms, geographic and geopolitical entities,  organisations, and names.
 - [SDMX Statistical Subject-Matter Domains](https://registry.sdmx.org/ws/public/sdmxapi/rest/categoryscheme/SDMX/STAT_SUBJECT_MATTER/1.0): Controlled list of subjects, used for exchanging (meta)data across statistical offices. The list is aligned to the Classification of International Statistical 
 - [STW Thesaurus for Economics](https://zbw.eu/stw/version/latest/about.en.html): Thesaurus including 6,000 standardized subject headings and about 20,000 additional entry terms to facilitate indexing and searching of economic literature. It is maintained by ZBW - Leibniz Information Centre for EconomicsActivities maintained by the Conference of European Statisticians of the United Nations Economic Commission for Europe, UNECE.
