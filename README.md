@@ -3,7 +3,7 @@
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
 
-This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling, publishing and enriching (meta)datasets from the social sciences. If you wish to contribute, please check the contribution guidelines or get in touch with [Angelica Maineri](mailto:angelica@odissei-data.nl). 
+This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling, publishing and enriching (meta)datasets from the social sciences. If you wish to contribute, please check the [contribution guidelines](./CONTRIBUTION_GUIDELINES.md) or get in touch with [Angelica Maineri](mailto:angelica@odissei-data.nl). 
 
 Please note that, unless otherwise stated, the resources are in English. When available, the Digital Object Identifier (DOI) assigned by [FAIRsharing](https://fairsharing.org/) is added. 
 
