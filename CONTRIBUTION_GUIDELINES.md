@@ -12,7 +12,7 @@ When editing the [list](./README.md), please:
 - Please follow the logic of the headings and the general Markdown formatting rules; you can always preview the results;
 - If you add a new category, please add a pointer to it in the table of contents; 
 - To list a new resource, first add a link to it, then a colon (:), and then a short but informative description of the ontology; please have a look at existing entries for examples;
-- Resources should be listed alphabetically withing categories;
+- Resources should be listed alphabetically within categories;
 - If available, also add a DOI pointing to the resource on FAIRsharing.
 For any doubt, you can also open an issue and/or send an email. 
 
