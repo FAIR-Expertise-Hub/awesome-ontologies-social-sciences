@@ -19,7 +19,7 @@ If you want to learn more about semantic artefacts (in general and for the socia
 - [Concepts and Variables](#Concepts-and-Variables)
 - [FAIR data stewardship](#FAIR-data-stewardship)
 - [International standards](#International-standards)
-- [Methods and statistics](#Methods-and-statistics)
+- [Methods and analyses](#Methods-and-analyses)
 - [Topics and Subjects](#Topics-and-Subjects)
 
 ## Ontologies look up services
