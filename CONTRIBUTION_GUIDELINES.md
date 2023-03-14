@@ -2,7 +2,7 @@
 Do you want to propose a new resource to be added to the list, or an edit/update, or did you find a mistake (e.g. a broken link) and want to report it? Please read this document! But first, thank you for investing your time in contributing to our project and sharing your knowledge!
 
 # Option 1: Pull requests (PRs)
-To submit a changed version of the list (README.md) with your own additions, you do not need to install a git client but you can work on the GitHub web interface. We recommend the following:
+To submit a changed version of the list ([README.md]((./README.md)) with your own additions, you do not need to install a git client but you can work on the GitHub web interface. We recommend the following:
 - Fork this repository in your own workspace (please note: you can also do it by clicking on the little edit/pen icon on the top right side of the Markdown viewer on the GitHub web interface)
 - Commit/push your changes in that fork; please do not forget to add a short description;
 - Submit a pull request to the master branch of this repository.
