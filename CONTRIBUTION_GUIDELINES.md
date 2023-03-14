@@ -17,7 +17,7 @@ When editing the [list](./README.md), please:
 For any doubt, you can also open an issue and/or send an email. 
 
 # Option 2: Create an issue
-Click on Issues and create a New Issue. Add a short and informative title, explain your suggestions in the Comments field, and submit the issue. 
+Click on Issues and create a New Issue. A template for proposing new resources is available. Otherwise, create a blank issue, add a short and informative title, explain your suggestions in the Comments field, and submit the issue.
 
 
 # Option 3: Send an email
