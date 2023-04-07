@@ -31,13 +31,14 @@ _If you can’t find what you look for in this list, you might want to try a loo
 - [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Curated collection of vocabularies used to describe Linked Open Data.  
 - [Ontobee](https://ontobee.org/): a linked data server for ontology terms. Ontobee supports ontology visualization, query, and development. [DOI](https://doi.org/10.25504/FAIRsharing.q8fx1b)
 - [Ontohub] (https://github.com/MatPiw/OntoHub): an application that allows to use different knowledge representations (e.g.,ontologies,..) in various formats and operate on them to create new representations of domain or expert knowledge.
-- 
+- [DBpedia Ontology] (https://www.dbpedia.org/resources/ontology/): an enciclopedia of ontologies with more than 700 classes developed by DBpedia, a a crowd-sourced community. 
 
 ## General
 _General-purposes terminologies and lexical databases_
 - [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other. 
 - [Theory database](https://theory-database.appspot.com/) - Searchable database of ontologies representing theories of behaviour change (status: prototype). 
 - [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
+- [
 
 ## Concepts and Variables
 _Controlled lists of terms, concepts and variables_
