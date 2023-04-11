@@ -26,27 +26,28 @@ If you want to learn more about semantic artefacts (in general and for the socia
 _If you can’t find what you look for in this list, you might want to try a look up service or database_
 - [Bartoc](https://bartoc.org/vocabularies): The Basic Register of Thesauri, Ontologies & Classifications (BARTOC) is a database of vocabularies and terminology registries from any subject area, in any language, any publication format, and any form of accessibility. [DOI](https://doi.org/10.25504/FAIRsharing.f1777e)
 - [CESSDA vocabularies](https://vocabularies.cessda.eu/): discovery, browsing and downloading platform for controlled vocabularies maintained by the Consortium of European Social Science Data Archives (CESSDA). It also includes DDI vocabularies. [DOI](https://doi.org/10.25504/FAIRsharing.5c7cec)
+- [DBPedia Archivo](https://archivo.dbpedia.org/list): Discovery tool of OWL ontologies. For each ontology, a score of "minimal viability" is provided.
 - [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols/index): Repository for biomedical ontologies; developed and maintained by the Samples, Phenotypes and Ontologies Team (SPOT) at EMBL-EBI.
 - [EuroVoc](https://op.europa.eu/en/web/eu-vocabularies): Collection of multilingual controlled vocabularies maintained and developed by EU institutions. [DOI](https://doi.org/10.25504/FAIRsharing.d0a681)
 - [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Curated collection of vocabularies used to describe Linked Open Data.  
 - [Ontobee](https://ontobee.org/): a linked data server for ontology terms. Ontobee supports ontology visualization, query, and development. [DOI](https://doi.org/10.25504/FAIRsharing.q8fx1b)
 - [Ontohub](https://github.com/MatPiw/OntoHub): an application that allows to use different knowledge representations (e.g.,ontologies,..) in various formats and operate on them to create new representations of domain or expert knowledge.
-- [DBpedia Ontology](https://www.dbpedia.org/resources/ontology/): an enciclopedia of ontologies with more than 700 classes developed by DBpedia, a a crowd-sourced community. 
+
 
 ## General
 _General-purposes terminologies and lexical databases_
-- [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other. 
+- [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other.
+- [DBpedia Ontology](https://www.dbpedia.org/resources/ontology/): a cross-domain ontology of 700 classes developed by DBpedia, a a crowd-sourced community. It is based on infoboxes within Wikipedia. 
 - [Theory database](https://theory-database.appspot.com/) - Searchable database of ontologies representing theories of behaviour change (status: prototype). 
 - [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
-- [
 
 ## Concepts and Variables
 _Controlled lists of terms, concepts and variables_
 - [European Language Social Science Thesaurus - ELSST](https://thesauri.cessda.eu/elsst-3/en/): Multilingual thesaurus of over 3,000 concepts from various social science disciplines, maintained by CESSDA. [DOI](https://doi.org/10.25504/FAIRsharing.acd824.svg)
+- [PersonLink](http://cedric.cnam.fr/isid/ontologies/files/PersonLink.html): a multilingual and multicultural ontology representing family relationships developed by the Conservatoire national des arts et métiers (Cnam).
 - [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
 - [Linked Open Vocabularies(LOV)](https://lov.linkeddata.es/dataset/lov):  vocabularies, terms and ontologies.
-
 
 
 ## FAIR data stewardship
