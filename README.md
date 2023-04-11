@@ -38,6 +38,7 @@ _If you can’t find what you look for in this list, you might want to try a loo
 _General-purposes terminologies and lexical databases_
 - [Babelnet](https://babelnet.org/): multilingual encyclopaedic dictionary, including over 22 million entries semantically connected to each other.
 - [DBpedia Ontology](https://www.dbpedia.org/resources/ontology/): a cross-domain ontology of 700 classes developed by DBpedia, a a crowd-sourced community. It is based on infoboxes within Wikipedia. 
+- [Friend of a Friend (FOAF)](http://xmlns.com/foaf/0.1/#sec-foafproject): Ontology to provide a collection of basic terms (and relationships thereof) that can be used in Web pages for people, groups, companies and other kinds of thing.
 - [Theory database](https://theory-database.appspot.com/) - Searchable database of ontologies representing theories of behaviour change (status: prototype). 
 - [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
 
