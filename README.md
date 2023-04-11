@@ -31,7 +31,7 @@ _If you can’t find what you look for in this list, you might want to try a loo
 - [EuroVoc](https://op.europa.eu/en/web/eu-vocabularies): Collection of multilingual controlled vocabularies maintained and developed by EU institutions. [DOI](https://doi.org/10.25504/FAIRsharing.d0a681)
 - [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Curated collection of vocabularies used to describe Linked Open Data.  
 - [Ontobee](https://ontobee.org/): a linked data server for ontology terms. Ontobee supports ontology visualization, query, and development. [DOI](https://doi.org/10.25504/FAIRsharing.q8fx1b)
-- [Ontohub](https://github.com/MatPiw/OntoHub): an application that allows to use different knowledge representations (e.g.,ontologies,..) in various formats and operate on them to create new representations of domain or expert knowledge.
+- [Ontohub](https://matpiw.github.io/OntoHub/): an application that allows to use different knowledge representations (e.g.,ontologies,..) in various formats and operate on them to create new representations of domain or expert knowledge.
 
 
 ## General
