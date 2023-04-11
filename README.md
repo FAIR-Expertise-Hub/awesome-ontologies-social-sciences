@@ -61,6 +61,7 @@ _Terminologies and thesauri linked to FAIR implementation_
 
 ## International standards
 _Controlled lists of socio-demographic, socio-economic and geographic indicators_
+- [CESSDA Country codes and names](https://vocabularies.cessda.eu/vocabulary/CountryNamesAndCodes?lang=en): Controlled list of country codes and names according to ISO 3166-1 alpha-2 and maintained by CESSDA.
 - [ESCO - occupations](https://esco.ec.europa.eu/en/classification/occupation_main): Multilingual taxonomy of occupations from the European Skills, Competences, Qualifications and Occupations (ESCO) classification, including mapping to the International Standard Classification of Occupations (ISCO).
 - [ESCO - skills and competences](https://esco.ec.europa.eu/en/classification/skill_main): Multilingual taxonomy of over 13,500  skills and competences  from the European Skills, Competences, Qualifications and Occupations (ESCO) classification.
 - [ESCO - qualifications](https://esco.ec.europa.eu/en/classification/qualifications) : Multilingual taxonomy of qualifications from the the European Skills, Competences, Qualifications and Occupations (ESCO).
