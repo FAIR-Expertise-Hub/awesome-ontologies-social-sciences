@@ -29,7 +29,7 @@ _If you can’t find what you look for in this list, you might want to try a loo
 - [DBPedia Archivo](https://archivo.dbpedia.org/list): Discovery tool of OWL ontologies. For each ontology, a score of "minimal viability" is provided.
 - [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols/index): Repository for biomedical ontologies; developed and maintained by the Samples, Phenotypes and Ontologies Team (SPOT) at EMBL-EBI.
 - [EuroVoc](https://op.europa.eu/en/web/eu-vocabularies): Collection of multilingual controlled vocabularies maintained and developed by EU institutions. [DOI](https://doi.org/10.25504/FAIRsharing.d0a681)
-- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Curated collection of vocabularies used to describe Linked Open Data.  
+- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Curated collection of vocabularies used to describe Linked Open Data. It is an online resource that provides high-quality and reusable vocabularies to describe Linked Data.  
 - [Ontobee](https://ontobee.org/): a linked data server for ontology terms. Ontobee supports ontology visualization, query, and development. [DOI](https://doi.org/10.25504/FAIRsharing.q8fx1b)
 - [Ontohub](https://matpiw.github.io/OntoHub/): an application that allows to use different knowledge representations (e.g.,ontologies,..) in various formats and operate on them to create new representations of domain or expert knowledge.
 
@@ -50,7 +50,6 @@ _Controlled lists of terms, concepts and variables_
 - [PersonLink](http://cedric.cnam.fr/isid/ontologies/files/PersonLink.html): a multilingual and multicultural ontology representing family relationships developed by the Conservatoire national des arts et métiers (Cnam).
 - [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
-- [Linked Open Vocabularies(LOV)](https://lov.linkeddata.es/dataset/lov):  is an online resource that provides high-quality and reusable vocabularies to describe Linked Data.
 
 
 ## FAIR data stewardship
