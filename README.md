@@ -40,7 +40,9 @@ _General-purposes terminologies and lexical databases_
 - [DBpedia Ontology](https://www.dbpedia.org/resources/ontology/): a cross-domain ontology of 700 classes developed by DBpedia, a a crowd-sourced community. It is based on infoboxes within Wikipedia. 
 - [Friend of a Friend (FOAF)](http://xmlns.com/foaf/0.1/#sec-foafproject): Ontology to provide a collection of basic terms (and relationships thereof) that can be used in Web pages for people, groups, companies and other kinds of thing.
 - [Theory database](https://theory-database.appspot.com/) - Searchable database of ontologies representing theories of behaviour change (status: prototype). 
-- [Wordnet](https://wordnet.princeton.edu/): Lexical database of the English language
+- [Wordnet](https://wordnet.princeton.edu/): lexical database of the English language that groups nouns, verbs, adjectives and adverbs into 'synsets'.
+
+
 
 ## Concepts and Variables
 _Controlled lists of terms, concepts and variables_
@@ -48,7 +50,7 @@ _Controlled lists of terms, concepts and variables_
 - [PersonLink](http://cedric.cnam.fr/isid/ontologies/files/PersonLink.html): a multilingual and multicultural ontology representing family relationships developed by the Conservatoire national des arts et métiers (Cnam).
 - [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
-- [Linked Open Vocabularies(LOV)](https://lov.linkeddata.es/dataset/lov):  vocabularies, terms and ontologies.
+- [Linked Open Vocabularies(LOV)](https://lov.linkeddata.es/dataset/lov):  is an online resource that provides high-quality and reusable vocabularies to describe Linked Data.
 
 
 ## FAIR data stewardship
