@@ -1,5 +1,5 @@
 # Awesome Ontologies for the Social Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-*What*: A curated list of ontologies, controlled vocabularies and semantic artifacts for the social sciences
+*What*: A curated list of ontologies, controlled vocabularies and semantic artefacts for the social sciences
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
 
