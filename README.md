@@ -16,7 +16,7 @@ If you want to learn more about semantic artefacts (in general and for the socia
 ## Contents
 - [Ontologies look up services](#Ontologies-look-up-services)
 - [General](#general)
-- [Concepts and Variables](#Concepts-and-Variables)
+- [Concepts, Terms, and Variables](#Concepts-Terms-and-Variables)
 - [FAIR data stewardship](#FAIR-data-stewardship)
 - [International standards](#International-standards)
 - [Methods and analyses](#Methods-and-analyses)
@@ -44,9 +44,10 @@ _General-purposes terminologies and lexical databases_
 
 
 
-## Concepts and Variables
-_Controlled lists of terms, concepts and variables_
+## Concepts Terms and Variables
+_Controlled lists of terms, concepts and variables related to social sciences_
 - [European Language Social Science Thesaurus - ELSST](https://thesauri.cessda.eu/elsst-3/en/): Multilingual thesaurus of over 3,000 concepts from various social science disciplines, maintained by CESSDA. [DOI](https://doi.org/10.25504/FAIRsharing.acd824.svg)
+- [Kinbank](http://www.kinbank.net/): Multilingual database (over 1200 languages) of kinship terminologies. From grandparents to grandchildren, parent's siblings and their children. 
 - [PersonLink](http://cedric.cnam.fr/isid/ontologies/files/PersonLink.html): a multilingual and multicultural ontology representing family relationships developed by the Conservatoire national des arts et métiers (Cnam).
 - [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
