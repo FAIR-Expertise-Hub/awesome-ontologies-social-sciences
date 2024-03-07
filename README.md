@@ -46,7 +46,7 @@ _General-purposes terminologies and lexical databases_
 
 ## Concepts Terms and Variables
 _Controlled lists of terms, concepts and variables related to social sciences_
-- [European Language Social Science Thesaurus - ELSST](https://thesauri.cessda.eu/elsst-3/en/): Multilingual thesaurus of over 3,000 concepts from various social science disciplines, maintained by CESSDA. [DOI](https://doi.org/10.25504/FAIRsharing.acd824.svg)
+- [European Language Social Science Thesaurus - ELSST](https://thesauri.cessda.eu/elsst-3/en/): Multilingual thesaurus of over 3,000 concepts from various social science disciplines, maintained by CESSDA. [DOI](https://doi.org/10.25504/FAIRsharing.acd824)
 - [Kinbank](http://www.kinbank.net/): Multilingual database (over 1200 languages) of kinship terminologies. From grandparents to grandchildren, parent's siblings and their children. 
 - [PersonLink](http://cedric.cnam.fr/isid/ontologies/files/PersonLink.html): a multilingual and multicultural ontology representing family relationships developed by the Conservatoire national des arts et métiers (Cnam).
 - [SAGE Social Science Thesaurus](https://concepts.sagepub.com/vocabularies/social-science/en/): Multidisciplinary thesaurus of over 60,000 social science concepts (including people, theories, methods), mostly  mined from headwords in SAGE encyclopaedias, created and maintained by SAGE. It is covered by CC-BY-NC-SA licence. 
