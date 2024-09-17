@@ -53,8 +53,9 @@ _Controlled lists of terms, concepts and variables related to social sciences_
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
 
 
-## FAIR data stewardship
-_Terminologies and thesauri linked to FAIR implementation_
+## FAIR data stewardship & RDM
+_Terminologies and thesauri linked to Research Data Management and FAIR implementation_
+- [CODATA Research Data Management Terminology](https://vocabs.ardc.edu.au/viewById/685): vocabulary of community-accepted terms and definitions for concepts relevant to research data management. 
 - [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html): ontology of the FAIR Implementation Profile framework. [DOI](https://doi.org/10.25504/FAIRsharing.343864)
 - [PROV-O](https://www.w3.org/TR/prov-o/): ontology to describe the provenance of information in Web documents, data, and resources. [DOI](https://doi.org/10.25504/FAIRsharing.2rm2b3)
 - [Simple Knowledge Organization System  - SKOS](https://www.w3.org/2004/02/skos/): standards to represent semantic artefacts (e.g. thesauri, classification schemes, subject heading systems). [DOI](https://doi.org/10.25504/FAIRsharing.48e326)
