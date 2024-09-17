@@ -17,7 +17,7 @@ If you want to learn more about semantic artefacts (in general and for the socia
 - [Ontologies look up services](#Ontologies-look-up-services)
 - [General](#general)
 - [Concepts, Terms, and Variables](#Concepts-Terms-and-Variables)
-- [FAIR data stewardship](#FAIR-data-stewardship)
+- [FAIR data stewardship and RDM](#FAIR-data-stewardship-and-RDM)
 - [International standards](#International-standards)
 - [Methods and analyses](#Methods-and-analyses)
 - [Topics and Subjects](#Topics-and-Subjects)
@@ -53,7 +53,7 @@ _Controlled lists of terms, concepts and variables related to social sciences_
 - [UNESCO thesaurus](https://vocabularies.unesco.org/browser/thesaurus/en/): Multidisciplinary and multilingual (arab, english, french, russian, spanish) thesaurus maintained by UNESCO of over 4,000 terms used in the fields of education, culture, natural sciences, social and human sciences, communication and information for subject analysis and retrieval of documents. [DOI](https://doi.org/10.25504/FAIRsharing.81dc5f)
 
 
-## FAIR data stewardship & RDM
+## FAIR data stewardship and RDM
 _Terminologies and thesauri linked to Research Data Management and FAIR implementation_
 - [CODATA Research Data Management Terminology](https://vocabs.ardc.edu.au/viewById/685): vocabulary of community-accepted terms and definitions for concepts relevant to research data management. [DOI](https://doi.org/10.5281/zenodo.10626170) 
 - [FIP ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html): ontology of the FAIR Implementation Profile framework. [DOI](https://doi.org/10.25504/FAIRsharing.343864)
